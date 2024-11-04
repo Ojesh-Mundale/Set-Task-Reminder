@@ -19,7 +19,6 @@ A simple web application built with Flask that allows users to set reminders for
 
 - Python 3.x
 - Flask
-- Other dependencies (if any)
 
 ## Installation
 
