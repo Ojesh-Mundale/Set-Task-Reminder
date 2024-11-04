@@ -20,9 +20,3 @@ A simple web application built with Flask that allows users to set reminders for
 - Python 3.x
 - Flask
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/set-task-reminder.git
-   cd set-task-reminder
