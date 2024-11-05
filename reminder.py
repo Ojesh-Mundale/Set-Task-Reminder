@@ -33,7 +33,7 @@ def set_reminder():
         total_delay = (minutes * 60) + seconds
         
         # Specify the path to your sound file
-        sound_file = 'sound.mp3'  # Change this to your sound file's path
+        sound_file = 'sound.wav'  # Change this to your sound file's path
         
         # Start the reminder in a separate thread
         threading.Thread(target=reminder, args=(message, total_delay, sound_file)).start()
